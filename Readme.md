@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/499192/10754100/c0e1cc4c-7c95-11e5-9d3b-842d3acc2fd5.gif">
 </p>
@@ -59,3 +63,32 @@ If you want to collaborate, please [read the details here](Resources/Community/R
 
 [MIT License](https://raw.githubusercontent.com/JohnCoates/Aerial/master/LICENSE)
 
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+[JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) 的分支：为 macOS 提供 Apple TV 风格的航拍视频屏保，并包含地理描述与天气显示功能。原项目由 John Coates 发起，后续由 Guillaume Louel 等贡献者维护。
+
+**使用入口：** 下载与安装说明见 [Aerial 网站](https://aerialscreensaver.github.io)；源码构建参考 [贡献指南](Documentation/Contribute.md)。
+
+**范围说明：** 本仓库用于开发；当前分支说明列出的最低系统为 macOS 10.12，具体发行版要求应以其下载说明为准。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A fork of [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial), a macOS screensaver featuring Apple TV aerial videos, geographical descriptions and weather information. The project was started by John Coates and subsequently maintained by Guillaume Louel and other contributors.
+
+**Getting started:** See the [Aerial website](https://aerialscreensaver.github.io) for downloads and installation, and the [contribution guide](Documentation/Contribute.md) for building from source.
+
+**Scope:** This repository is for development. This branch documents macOS 10.12 as the minimum; consult the download instructions for the requirements of a particular release.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
